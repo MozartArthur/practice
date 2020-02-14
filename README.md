@@ -10,11 +10,11 @@
 + [1.7](https://github.com/MozartArthur/practice/blob/master/1.7.md)
 + [1.8](https://github.com/MozartArthur/practice/blob/master/1.8.md)
 + [1.9](https://github.com/MozartArthur/practice/blob/master/1.9.md)
-+ [1.10]()
-+ [1.11]()
++ [1.10](https://github.com/MozartArthur/practice/blob/master/1.10.md)
++ [1.11](https://github.com/MozartArthur/practice/blob/master/1.11.md)
 ### пролджээжлотролджэ
-+ [2.1]()
-+ [2.2]()
-+ [2.3]()
-+ [2.4]()
++ [2.1](https://github.com/MozartArthur/practice/blob/master/2.1.md)
++ [2.2](https://github.com/MozartArthur/practice/blob/master/2.2.md)
++ [2.3](https://github.com/MozartArthur/practice/blob/master/2.3.md)
++ [2.4](https://github.com/MozartArthur/practice/blob/master/2.4.md)
 ## Отчет
