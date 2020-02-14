@@ -1,6 +1,6 @@
 # practice
 ## Задания
-### Инвариантные задания
+### I. Инвариантная самостоятельная работа
 + [1.1](https://github.com/MozartArthur/practice/blob/master/1.1.md)
 + [1.2](https://github.com/MozartArthur/practice/blob/master/1.2.md)
 + [1.3](https://github.com/MozartArthur/practice/blob/master/1.3.md)
@@ -12,9 +12,9 @@
 + [1.9](https://github.com/MozartArthur/practice/blob/master/1.9.md)
 + [1.10](https://github.com/MozartArthur/practice/blob/master/1.10.md)
 + [1.11](https://github.com/MozartArthur/practice/blob/master/1.11.md)
-### пролджээжлотролджэ
+### II. Вариативная самостоятельная работа
 + [2.1](https://github.com/MozartArthur/practice/blob/master/2.1.md)
 + [2.2](https://github.com/MozartArthur/practice/blob/master/2.2.md)
 + [2.3](https://github.com/MozartArthur/practice/blob/master/2.3.md)
 + [2.4](https://github.com/MozartArthur/practice/blob/master/2.4.md)
-## Отчет
+### Отчет
