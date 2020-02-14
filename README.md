@@ -1,8 +1,8 @@
 # practice
 ## Задания
 ### Инвариантные задания
-+ [1.1]()
-+ [1.2]()
++ [1.1](https://github.com/MozartArthur/practice/blob/master/1.1.md)
++ [1.2](https://github.com/MozartArthur/practice/blob/master/1.2.md)
 + [1.3]()
 + [1.4]()
 + [1.5]()
